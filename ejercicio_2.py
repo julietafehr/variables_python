@@ -28,26 +28,18 @@ numero_2 = float(input())
 print(numero_1, numero_2)
 
 # Suma
-numero_1 = 3.5
-numero_2 = 1.2
 suma = numero_1 + numero_2
-print("El resultado de sumar 3.5 y 1.2 es: ", suma)
+print("El resultado de sumar numero_1 y numero_2 es: ", suma)
 
 # Resta
-numero_1 = 3.5
-numero_2 = 1.2
 resta = numero_1 - numero_2
-print("El resultado de restar 3.5 menos 1.2 es: ", resta)
+print("El resultado de restar numero_1 menos numero_2 es: ", resta)
 
 # División
-numero_1 = 3.5
-numero_2 = 1.2
 división = numero_1 / numero_2
-print("El resultado de dividir 3.5 por 1.2 es: ", división)
+print("El resultado de dividir numero_1 por numero_2 es: ", división)
 
 # Multiplicación
-numero_1 = 3.5
-numero_2 = 1.2
 multiplicacion = numero_1 * numero_2
-print("El resultado de multiplicar 3.5 por 1.2 es: ", multiplicacion)
+print("El resultado de multiplicar numero_1 por numero_2 es: ", multiplicacion)
 
