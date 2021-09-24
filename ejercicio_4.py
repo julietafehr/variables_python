@@ -23,12 +23,8 @@ palabra_3 = str(input())
 print("Ingrese palabra 4: ")
 palabra_4 = str(input())
 
-texto = "Objeto Volador No Identificado"
-print(texto)
-
-acronimo = texto[0] + texto[7] + texto[15] + texto[18]
+acronimo = (palabra_1[0]) + (palabra_2[0]) +(palabra_3[0]) + (palabra_4[0])
 print(acronimo)
-
 
 # De cada palabra debe tomar la primera letra y armar el acrónimo
 # Ejemplo: Alumbrado, barrido y limpieza --> ABL
